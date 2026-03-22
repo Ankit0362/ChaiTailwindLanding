@@ -1,0 +1,25 @@
+.material-symbols-outlined {
+  font-variation-settings:
+    "FILL" 0,
+    "wght" 400,
+    "GRAD" 0,
+    "opsz" 24;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.code-block {
+  font-family: "JetBrains Mono", monospace;
+}
+
+.glass-panel {
+  backdrop-filter: blur(12px);
+  background: rgba(28, 32, 40, 0.8);
+}
+
+.preview-grid-bg {
+  background-image: radial-gradient(#6366f1 0.5px, transparent 0.5px);
+  background-size: 16px 16px;
+}
